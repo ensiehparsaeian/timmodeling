@@ -288,7 +288,7 @@
         <span class="token_count">...</span>
         tokens.
       </span>
-        (<a class="url external">view original document</a>)
+        (<a target="_blank" class="url external">view original document</a>)
       </p>
       <table class="table table-condensed" id="doc_topics">
         <thead>
