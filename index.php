@@ -137,8 +137,8 @@
           <p id="list_view_help"
           class="navbar-text help model_view_list hidden">
           click a column label to sort; click a row for more about a topic</p>
-          <p id="conditional_view_help" class="navbar-text help model_view_conditional hidden"> y-axis: </p>
-          <ul id="conditional_choice"
+          <p id="conditional_view_help" class="navbar-text help model_view_conditional hidden"> y-axis: %</p>
+          <!-- <ul id="conditional_choice"
             class="nav navbar-nav nav-pills model_view_conditional hidden">
             <li id="nav_model_conditional_frac" class="active">
               <a href="#/model/conditional/frac">
@@ -152,7 +152,7 @@
                 <span class="proper hidden">joint</span>
               </a>
             </li>
-          </ul>
+          </ul> -->
           <button id="reset_zoom" type="button"
             class="btn btn-default navbar-btn
               model_view_scaled model_view_conditional hidden">
