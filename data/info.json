@@ -1,17 +1,1 @@
-{
-    "title": "Model Browser",
-    "meta_info": "<p>A topic model browser generated for TIM Review by dfrtopics.<\/p>",
-    "VIS": {
-        "bib": {
-            "spec": {
-                "author_delimiter": ", "
-            }
-        },
-        "topic_view": {
-            "m" : {
-                "left": 65
-            }
-        }
-    }
-}
-
+{"title":"Model Browser","meta_info":"<p>A topic model browser generated for Ensieh by dfrtopics.</p>","VIS":{"bib":{"spec":{"author_delimiter":", "}},"topic_view":{"m":{"left":65}}}}
